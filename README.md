@@ -17,6 +17,8 @@ This project provides:
 2. A **risk scoring methodology** adapted for low-income country institutional contexts
 3. A **governance gap analysis** comparing deployments against the EU AI Act, NIST AI RMF, and OECD AI Principles
 4. An **open contribution model** so researchers and practitioners can add entries
+   
+[View live dashboard](https://maggyobuya98-glitch.github.io/ai-infrastructure-tracker/dashboard.html)
 
 This is a living research tool, not a finished product. Contributions are welcome.
 
